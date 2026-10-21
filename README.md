@@ -4,7 +4,7 @@
 
 This **Todo** application, built as part of [The Odin Project](https://www.theodinproject.com/) curriculum, is implemented using **vanilla JavaScript** and follows a modular architecture inspired by the **Model–View–Controller (MVC)** pattern. The goal of the project is to practice separation of concerns, maintainable structure, and state-driven UI updates without relying on frameworks. The app stores all projects, lists, and todos in **localStorage**, ensuring that your data persists across browser sessions.
 
-[Slacker Tracker](https://krig6.github.io/odin-todo/) - Track your tasks… or your slacking.
+[Slacker Tracker](https://ekodesjuliet.github.io/odin-todo/) - Track your tasks… or your slacking.
 
 ## Screenshots
 
